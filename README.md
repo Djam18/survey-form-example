@@ -8,5 +8,5 @@ Here is an example built with html and Tailwind CSS
 
 ```
 
-###Tailwind CSS installation
+### Tailwind CSS installation
 Link : https://tailwindcss.com/docs/installation
